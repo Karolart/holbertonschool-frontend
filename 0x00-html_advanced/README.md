@@ -4,7 +4,7 @@ ______________________________________________________________
   
 ## Tasks  
   
-** 0. Create your first webpage **  
+* 0. Create your first webpage *  
 - Create your first HTML file  
 _______________________________________________________________  
 ** 1. Structure your webpage **  
